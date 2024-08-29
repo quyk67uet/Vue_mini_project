@@ -1,6 +1,6 @@
-# Vue.js 2 Project
+# Vue.js 3 Project
 
-This is a Vue.js 2 project that utilizes a local Node.js environment along with available APIs.
+This is a Vue.js 3 project that utilizes a local Node.js environment along with available APIs.
 
 ## Table of Contents
 
