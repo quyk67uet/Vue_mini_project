@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "name": "Iphone 12 Pro max",
+      "price": "4000000",
+      "description": "Thông tin chi tiết sản phẩm Iphone 12",
+      "id": "oPSzE11HGgfcH0LJ4aSfd"
+    },
+    {
+      "name": "Samsung S21 Ultra 5G",
+      "price": "12000000",
+      "description": "Perfect phone for perfect man",
+      "id": "Mrako5INbfqTUjLwttp-u"
+    },
+    {
+      "name": "Iphone 15 Pro Max",
+      "price": "150000000",
+      "description": "qưdqwdqwdwd",
+      "id": "AKGuQ8AcfQFZ3nhrgg-SZ"
+    }
+  ],
+  "users": [
+    {
+      "id": "5YsFNN42B14VYHhpDyizn",
+      "name": "Administrator",
+      "email": "admin@gmail.com",
+      "password": 123456
+    },
+    {
+      "id": "D7vDPamDILXhMo0el6W3N",
+      "name": "Minh Quý",
+      "email": "minhquyle2302@gmail.com",
+      "password": "$2b$10$/sBzZRH0rabuwK6pa5VbnewycsUxS/FtUx15/D4e6816EDhyXhfNi",
+      "description": "man"
+    },
+    {
+      "id": "Q0x9OsI3HJxf-O4XjQyl4",
+      "name": "Quý Lê Minh",
+      "email": "petermanhluong80@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "D7Ylu2mybDVHORpAl8bly",
+      "name": "Lê Minh Quý",
+      "email": "demo@test.ca",
+      "password": "123456"
+    },
+    {
+      "id": "NGzYSLnS03Ai2YNHRy9z8",
+      "name": "Qúy M",
+      "email": "manhluong80@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Điện thoại"
+    },
+    {
+      "id": "2",
+      "name": "Laptop"
+    },
+    {
+      "id": "3",
+      "name": "Tablet"
+    },
+    {
+      "name": "Test product 888",
+      "price": "88888888",
+      "description": "product 8",
+      "id": "-vsExwW8kezXihlnLTBbu"
+    }
+  ]
+}
