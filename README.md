@@ -27,3 +27,12 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone YOUR_GITHUB_REPOSITORY_URL
+
+2. Navigate to the project directory:
+     cd Vue-Mini-Project
+
+3. Install the project dependencies:
+   - npm install
+   - To run backend: node index.js
+   - To run frontend: cd source, npm run serve
+   - Open your browser and navigate to http://localhost:8080/. The application should be running on your local machine.
